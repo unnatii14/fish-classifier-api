@@ -101,3 +101,11 @@ This project is automatically deployed on [Render](https://render.com) with:
 - FastAPI framework for the REST API
 - Render platform for cloud hosting
 - PyTorch and torchvision for deep learning infrastructure
+
+## Project Ecosystem
+
+This repository is part of a three-tier fish identification system:
+
+- **[Deep Learning Model](https://github.com/Hetvi2211/Fish-Accuracy-Simulation)** - Core ML model for fish species identification and Similarity Search.
+- **[API Backend](https://github.com/unnatii14/fish-classifier-api)** - RESTful API serving the ML model
+
